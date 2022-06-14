@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka&family=Kdam+Thmor+Pro&display=swap');
+
+#Navigation{
+background-color: white !important;
+}
+#Navigation a{
+  color: black !important;
+}
+
+#mycard{
+  max-width: 550px;
+  margin:  180px auto !important;
+
+}
+
+#mycard #inputji{
+
+  margin-left: 25%;
+}
+#myid{
+  padding-top: 3%;
+  font-family: 'Blaka';
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  margin-left: 34%;
+}
+
+#buttonji{
+  margin-left: 33%;
+  margin-top: 3%;
+}
+
+#linking{
+
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+
+}
